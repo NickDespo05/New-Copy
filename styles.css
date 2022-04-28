@@ -1,0 +1,127 @@
+#first-row li {
+    display: inline-block;
+    margin-right: 4vh;
+    margin-bottom: 2vh;
+    font-family: sans-serif;
+    font-size: 1vmax;
+    margin-top: 2vh;
+}
+#login {
+    margin-left: 1300px;
+}
+#Logo {
+    width: 300px;
+    height: auto;
+}
+
+.second-row li {
+    display: inline-block;
+    margin-right: 10vh;
+    margin-bottom: 2vh;
+    font-family: sans-serif;
+    font-size: 1vmax;
+    margin-top: 2vh;
+    position: relative;
+    bottom: 30px;
+    left: 60px;
+}
+#Demo {
+    padding-bottom: 0;
+    margin-left: 170vh;
+    margin-bottom: 5vh;
+    background-color: orangered;
+    width: 200px;
+    height: 50px;
+    padding-top: 20px;
+    text-align: center;
+    border-radius: 10%;
+    position: relative;
+    bottom: 13vh;
+}
+.main-div {
+    background-color: orangered;
+    padding: 25vh;
+    color: white;
+    margin-top: -15vh;
+    display: inline-block;
+    width: 77vw;
+    height: 50vh;
+}
+h1 {
+    font-size: 9vh;
+    position: relative;
+    right: 12vh;
+}
+h3 {
+    font-size: 3vh;
+    position: relative;
+    right: 12vh;
+}
+h2 {
+    font-size: 3vh;
+    position: relative;
+    right: 12vh;
+}
+#Demo2 {
+    width: 35vh;
+    height: 10vh;
+    position: relative;
+    right: 12vh;
+    font-size: 3vh;
+    border-radius: 5%;
+    border-color: white;
+}
+#second-h2 {
+    width: 25%;
+}
+#picture-woman {
+    position: relative;
+    bottom: 84.5vh;
+    left: 95vh;
+    height: 100vh;
+    width: auto;
+}
+#second-div {
+    background-color: lightgray;
+    height: 200vh;
+    position: relative;
+    bottom: 85vh;
+    text-align: center;
+    padding: 6vh;
+}
+#Message {
+    position: relative;
+    left: 0;
+    color: black;
+    font-size: 5vh;
+}
+#desc {
+    font-size: 2.5vh;
+    width: 70%;
+    position: relative;
+    left: 30vh;
+}
+.button-trial {
+    margin: 5vh;
+    width: 40vh;
+    height: 7vh;
+    font-size: 3vh;
+    border: none;
+    border-radius: 5%;
+}
+
+.feature {
+    width: 50vh;
+    height: 60vh;
+    margin: 6vh;
+    background-color: white;
+    display: inline-block;
+    text-align: left;
+    padding-left: 3vh;
+    padding-top: none;
+    font-size: 5vh;
+}
+.span1 {
+    display: block;
+    text-align: center;
+}
